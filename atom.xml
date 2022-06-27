@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jpysina.github.io/PPTP</id>
+    <title>jpysina&apos;s PPT Gallary</title>
+    <updated>2022-06-27T18:48:36.901Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jpysina.github.io/PPTP"/>
+    <link rel="self" href="https://jpysina.github.io/PPTP/atom.xml"/>
+    <subtitle>jpysina 的ppt作品集</subtitle>
+    <logo>https://jpysina.github.io/PPTP/images/avatar.png</logo>
+    <icon>https://jpysina.github.io/PPTP/favicon.ico</icon>
+    <rights>All rights reserved 2022, jpysina&apos;s PPT Gallary</rights>
+    <entry>
+        <title type="html"><![CDATA[天下棉仓——新疆棉]]></title>
+        <id>https://jpysina.github.io/PPTP/post/tian-xia-mian-cang-xin-jiang-mian/</id>
+        <link href="https://jpysina.github.io/PPTP/post/tian-xia-mian-cang-xin-jiang-mian/">
+        </link>
+        <updated>2022-06-27T18:47:23.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消防蓝主题封面：消防逆行者]]></title>
+        <id>https://jpysina.github.io/PPTP/post/title-ChinaFire&amp;Rescue/</id>
+        <link href="https://jpysina.github.io/PPTP/post/title-ChinaFire&amp;Rescue/">
+        </link>
+        <updated>2022-06-16T11:30:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>2022年，杭州临平区两位消防英雄奔赴火场因公牺牲。他的同事说，消防员的工作服是橙红色系，虽然醒目，但同时意味着奔向灾难现场、有几率会牺牲。随着“蓝朋友”“火焰蓝”的词汇出现，作为蓝色的常服更能象征着他们。故反常道而行，以此封面而祭之。两位英雄，永垂不朽！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2022年，杭州临平区两位消防英雄奔赴火场因公牺牲。他的同事说，消防员的工作服是橙红色系，虽然醒目，但同时意味着奔向灾难现场、有几率会牺牲。随着“蓝朋友”“火焰蓝”的词汇出现，作为蓝色的常服更能象征着他们。故反常道而行，以此封面而祭之。两位英雄，永垂不朽！</p>
+]]></content>
+    </entry>
+</feed>
